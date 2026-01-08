@@ -1,0 +1,22 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: exchange-service
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/exchange_service?useTimezone=true&serverTimezone=UTC
+    username: root
+    password: admin123
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - "*"
