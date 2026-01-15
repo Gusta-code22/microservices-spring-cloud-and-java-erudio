@@ -1,3 +1,5 @@
-C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\07_MicroservicesWithFeign\exchange-service\src\main\java\github\io\Gusta_code22\controller\ExchangeController.java
-C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\07_MicroservicesWithFeign\exchange-service\src\main\java\github\io\Gusta_code22\model\Exchange.java
-C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\07_MicroservicesWithFeign\exchange-service\src\main\java\github\io\Gusta_code22\Startup.java
+C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\08_MicroservicesWithFeignAndEureka\exchange-service\src\main\java\github\io\Gusta_code22\controller\ExchangeController.java
+C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\08_MicroservicesWithFeignAndEureka\exchange-service\src\main\java\github\io\Gusta_code22\enviroment\InstanceInformationService.java
+C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\08_MicroservicesWithFeignAndEureka\exchange-service\src\main\java\github\io\Gusta_code22\model\Exchange.java
+C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\08_MicroservicesWithFeignAndEureka\exchange-service\src\main\java\github\io\Gusta_code22\repository\ExchangeRepository.java
+C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\08_MicroservicesWithFeignAndEureka\exchange-service\src\main\java\github\io\Gusta_code22\Startup.java
