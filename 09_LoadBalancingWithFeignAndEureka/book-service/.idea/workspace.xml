@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e537cdf-6d31-4a70-8f21-dd4e24b32a8f" name="Changes" comment="Refactor">
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/dto/Exchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/enviroment/InstanceInformationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/proxy/ExchangeProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/repository/BookRepository.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gusta-code22&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gusta-code22/microservices-spring-cloud-and-java-erudio.git&quot;,
+    &quot;accountId&quot;: &quot;ab2326b6-8e06-4eea-b254-d04b7b1ebfbd&quot;
+  }
+}</component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="37obKaBjNIeMFxrlt5nRWDtLx21" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Startup 8100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Startup 8101.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Startup.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.book-service [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Cursos/Microservices-springboot/microservices-spring-cloud-and-java-erudio/08_MicroservicesWithFeignAndEureka/book-service/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Cursos\Microservices-springboot\microservices-spring-cloud-and-java-erudio\07_MicroservicesWithFeign\book-service\src\main\resources\db\migration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="github.io.Gusta_code22.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Startup 8101">
+    <configuration name="Startup 8100" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="github.io.Gusta_code22.Startup" />
+      <module name="book-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Startup 8101" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="github.io.Gusta_code22.Startup" />
+      <module name="book-service" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Startup 8100" />
+      <item itemvalue="Application.Startup 8101" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e537cdf-6d31-4a70-8f21-dd4e24b32a8f" name="Changes" comment="" />
+      <created>1767572310341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767572310341</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adicionando Eureka server client">
+      <option name="closed" value="true" />
+      <created>1768496378249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768496378249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adicionando porta para o exchange service para ilustrar o balanceamento de carga">
+      <option name="closed" value="true" />
+      <created>1768583561377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768583561377</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactor">
+      <option name="closed" value="true" />
+      <created>1768584315948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768584315948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando Eureka server client" />
+    <MESSAGE value="Adicionando porta para o exchange service para ilustrar o balanceamento de carga" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
