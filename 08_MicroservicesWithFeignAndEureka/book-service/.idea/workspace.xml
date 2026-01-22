@@ -12,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/model/Book.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/proxy/ExchangeProxy.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../07_MicroservicesWithFeign/book-service/target/classes/github/io/Gusta_code22/repository/BookRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/github/io/Gusta_code22/proxy/ExchangeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/io/Gusta_code22/proxy/ExchangeProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
