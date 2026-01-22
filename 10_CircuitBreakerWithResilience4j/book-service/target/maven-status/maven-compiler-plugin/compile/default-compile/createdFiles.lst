@@ -1,0 +1,8 @@
+github\io\Gusta_code22\dto\Exchange.class
+github\io\Gusta_code22\proxy\ExchangeProxy.class
+github\io\Gusta_code22\enviroment\InstanceInformationService.class
+github\io\Gusta_code22\Startup.class
+github\io\Gusta_code22\controller\BookController.class
+github\io\Gusta_code22\controller\FoorBarController.class
+github\io\Gusta_code22\repository\BookRepository.class
+github\io\Gusta_code22\model\Book.class
