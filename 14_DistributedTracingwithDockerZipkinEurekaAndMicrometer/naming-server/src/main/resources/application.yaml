@@ -9,8 +9,8 @@ spring:
     client:
       register-with-eureka: false
       fetch-registry: false
-  manegement:
-    tracig:
+  management:
+    tracing:
       sampling:
         probability: 1.0
   zipkin:

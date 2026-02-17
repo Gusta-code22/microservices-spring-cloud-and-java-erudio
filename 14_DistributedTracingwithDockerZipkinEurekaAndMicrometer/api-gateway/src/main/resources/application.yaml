@@ -17,8 +17,8 @@ spring:
               uri: lb://exchange-service
               predicates:
                 - Path=/exchange-service/**
-  manegement:
-    tracig:
+  management:
+    tracing:
       sampling:
         probability: 1.0
   zipkin:

@@ -37,8 +37,8 @@ spring:
       hibernate:
     show-sql: false
     open-in-view: false
-  manegement:
-    tracig:
+  management:
+    tracing:
       sampling:
         probability: 1.0
   zipkin:
