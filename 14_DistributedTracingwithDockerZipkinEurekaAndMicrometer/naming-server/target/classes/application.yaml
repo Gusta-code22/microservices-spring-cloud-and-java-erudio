@@ -1,0 +1,15 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: naming-server
+
+  eureka:
+    client:
+      register-with-eureka: false
+      fetch-registry: false
+  manegement:
+    tracig:
+      sampling:
+        probability: 1.0
