@@ -1,0 +1,11 @@
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/Startup.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/cofing/OpenApiConfiguration.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/cofing/WebConfig.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/cofing/ZipkinCustomSenderConfig.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/controller/BookController.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/controller/FoorBarController.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/dto/Exchange.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/enviroment/InstanceInformationService.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/model/Book.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/proxy/ExchangeProxy.java
+/Users/mac_gusta/JavaProjects/16_CIandCDwithGithubActionsandDockerHub/book-service/src/main/java/github/io/Gusta_code22/repository/BookRepository.java
