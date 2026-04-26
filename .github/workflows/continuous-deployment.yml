@@ -34,7 +34,7 @@ jobs:
       run: mvn clean package
 
     - name: Docker Compose Build
-      working-directory: ./16_CIandCDwithGithubActionsandDockerHub
+      working-directory: ./19_MicroservicesRunningnKubernetesCluster
       run: docker compose build
 
     - name: Tag Docker images
