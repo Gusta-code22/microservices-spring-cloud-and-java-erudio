@@ -71,9 +71,10 @@ public class BookController {
         logger.info("Calculating the converted price of book from {} USD to {}.", book.getPrice(), currency);
         Exchange exchange = proxy.getExchange(book.getPrice(), "USD", currency);
 
-        book.setEnviroment(
-                "BOOK HOST: " + host + "PORT: " + port +
-                "VERSION: Kube-V1" + "EXCHANGE HOST: " + exchange.getEnvironment());
+        book.setEnviroment(String.format(
+                "HOST: %s | PORT: %s | VERSION: Kube-V1 | EXCHANGE HOST: %s",
+                host, port, exchange.getEnvironment()
+        ));
         book.setPrice(exchange.getConvertedValue());
         book.setCurrency(currency);
         return book;
