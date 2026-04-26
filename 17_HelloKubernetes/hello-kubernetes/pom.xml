@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>github.io.Gusta-code22</groupId>
 	<artifactId>hello-kubernetes</artifactId>
-	<version>0.0.1-GUSTA</version>
+	<version>0.0.2-GUSTA</version>
 	<name>hello-kubernetes</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

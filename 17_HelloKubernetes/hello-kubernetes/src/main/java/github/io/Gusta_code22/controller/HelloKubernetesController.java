@@ -21,7 +21,7 @@ public class HelloKubernetesController {
     @GetMapping("/hello-kubernetes")
     public HelloKubernetes helloKubernetes(){
         return new HelloKubernetes(
-                "Hello Kubernetes - V1",
+                "Hello Kubernetes - V2",
                 informationService.retrieveInstanceInfo()
         );
     }
