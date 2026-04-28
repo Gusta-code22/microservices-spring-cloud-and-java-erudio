@@ -72,7 +72,7 @@ public class BookController {
         Exchange exchange = proxy.getExchange(book.getPrice(), "USD", currency);
 
         book.setEnviroment(String.format(
-                "HOST: %s | PORT: %s | VERSION: Kube-V1 | EXCHANGE HOST: %s",
+                "HOST: %s | PORT: %s | VERSION: Kube-V2 | EXCHANGE HOST: %s",
                 host, port, exchange.getEnvironment()
         ));
         book.setPrice(exchange.getConvertedValue());

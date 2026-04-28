@@ -74,7 +74,7 @@ public class ExchangeController {
 
         exchange.setConvertedValue(convertedValue);
 
-        exchange.setEnvironment(String.format("HOST: %s | VERSION: Kube-V1 | PORT: %s", host, port));
+        exchange.setEnvironment(String.format("HOST: %s | VERSION: Kube-V2 | PORT: %s", host, port));
         return exchange;
     }
 }
